@@ -1,7 +1,6 @@
 import sys
 from PyQt5 import QtWidgets
 from PyQt5.QtWidgets import QApplication, QMainWindow
-from flask import g
 
 def window():
     # sys.argv => gönderilen komutlar
